@@ -1,0 +1,166 @@
+.one{
+  display: flex;
+  flex-direction: row;
+}
+.two{
+  width: 200px;
+  background-color: lightblue;
+}
+.three{
+  width: 75px;
+  background-color: lightpink;
+}
+.item{
+  margin-top: 20px;
+  display:flex;
+  flex-direction: row;
+}
+.item1{
+  background-color: lightblue;
+  width: 50px;
+}
+.item2{
+  background-color: lightpink;
+  flex: 1;
+}
+.item3{
+  background-color: lightblue;
+  width: 75px;
+}
+.four{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.item4{
+  background-color: lightpink;
+  width: 40px;
+}
+
+.gray{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: solid;
+  border-width: 1px;
+  height: 50px;
+  align-items: center;
+}
+.ping{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.5);
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 16px;
+  border-radius: 7px;
+}
+.flexbox{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 3px;
+}
+.notifications{
+  background-color: blue;
+  border-radius: 10px;
+ padding-left: 10px;
+ padding-right: 10px;
+ padding-bottom: 3px;
+ padding-top: 3px;
+ color: white;
+}
+
+.contain{
+  margin-top: 30px;
+  width: 500px;
+  box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.8);
+
+}
+.flex{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.flex1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+  font-size: 18px;
+}
+.spider{
+  width: 60px;
+  border-radius: 35px;
+  object-position: center;
+  object-fit: cover;
+
+}
+.Oliver{
+ flex: 1;
+}
+.spiderdiv{
+  width: 75px;
+  align-items: center;
+}
+.follow{
+  border: none;
+  background-color: rgb(0, 110, 255);
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 7px;
+}
+p{
+  margin: 0px;
+}
+.oli{
+  font-weight: bolder;
+  margin-bottom: 7px;
+}
+.header{
+  display: flex;
+  flex-direction: row;
+  background-color: purple;
+  width: 700px;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 45px;
+}
+.searchbar{
+ height: 50px;
+ width:400px ;
+ border-radius:  70px;
+ padding-left: 20px;
+}
+.home{
+  color: white;
+  width: 120px;
+  padding-left: 12px;
+}
+.sdiv{
+  flex: 1;
+}
+.down{
+  width: 100px;
+}
+.dbutton{
+  border-color: white;
+  background-color: purple;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+}

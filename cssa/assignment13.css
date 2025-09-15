@@ -1,0 +1,143 @@
+.flexbox1{
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+}
+.flex1a{
+  width:100px;
+  background-color: lightpink;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flex1b{
+  width:200px;
+  background-color: lightblue;
+}
+.flex1aa{
+  background-color: black;
+  color: white;
+}
+
+.flexbox2{
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  margin-top: 20px;
+}
+.flex2a{
+  background-color: lightpink;
+  width: 100px;
+}
+.flex2b{
+  background-color: lightblue;
+  width: 200px;
+}
+
+.row2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.row2a{
+  background-color: black;
+  color: white;
+}
+.container{
+  margin-top: 30px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  width: 400px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+  border-radius: 7px;
+  padding-top: 8px;
+}
+
+.vdiv{
+  display: flex;
+  flex-direction: row;
+}
+.spiderdiv{
+  margin-right: 10px;
+  
+}
+.spider{
+  height: 47px;
+  border-radius: 24px;
+  margin-top: 2px;
+}
+.chewydiv{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.all{
+  margin-bottom: 18px;
+}
+.big, .big1{
+  margin-bottom: 5px;
+}
+.chew, .big{
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+}
+.big1,.tim{
+  color: rgb(78, 74, 74);
+}
+
+
+.catcoin{
+  margin-top: 20px;
+  margin-bottom: 300px;
+}
+.sss{
+  color: gray;
+}
+.div1{
+  display: flex;
+  flex-direction: row;
+}
+.back{
+  width:350px;
+  margin-top: 0px;
+  line-height: 20px;
+}
+.super{
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.word{
+  margin-left: 12px;
+}
+.div2{
+  display: flex;
+}
+.udiv{
+  display: flex;
+  flex-direction: row;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  border-radius: 7px;
+border-style: solid;
+  border-color: white;
+  border-width: 1px;
+  overflow: hidden;
+}
+.rdiv{
+  padding-left: 10px;
+
+}
+
+.em1{
+  background-color: gray;
+  width: 70px;
+  margin: 0;
+  height: 100px;
+}
+.em{
+  background-color: white;
+  width: 60px;
+}
+.web{
+  width: 230px;
+}

@@ -1,0 +1,74 @@
+ .back{
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-right:8px;
+    padding-left:8px;
+    cursor: pointer;
+    margin-right: 10px;
+    font-size: 16px;
+  }
+  .search{
+    font-size: 18px;
+    margin-left: 4px;
+    margin-right: 4px;
+    cursor: pointer;
+  }
+  .next{
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-left: 8px;
+    cursor:pointer;
+  }
+  .stretch{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right: 8px;
+    padding-left: 8px;
+    color: white;
+    background-color: green;
+    border: none;
+    cursor: pointer;
+    transition: padding 0.15s;
+  }
+  .stretch:hover{
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  .shadow{
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    background-color: green;
+    border: none;
+    transition: box-shadow 0.15s, margin 0.15s;
+  }
+  .shadow:hover{
+    box-shadow:5px 5px 10px rgba(0, 0, 0, 0.3)
+  }
+  .shadow:active{
+    margin-top: 4px;
+    margin-left:4px
+  }
+  .num{
+    background-color: green;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border: none;
+    margin-right: 6px;
+    transition:padding 0.15s;
+    cursor: pointer;
+  }
+  .num:hover{
+    padding-left: 18px;
+    padding-right: 18px;
+  }

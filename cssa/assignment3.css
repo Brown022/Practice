@@ -1,0 +1,146 @@
+.req{
+    height: 36px;
+    width: 110px;
+    border: none;
+    border-color: black;
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+  }
+    .req:hover{
+      opacity: 0.7;
+    }
+
+  .add{
+    height: 36px;
+    width: 150px;
+    border: none;
+    border-radius: 18px;
+    background-color: rgb(255, 216, 20);
+    cursor: pointer;
+    transition: background-color 0.15s, opacity 0.15;
+    }
+    .add:hover{
+      background-color:rgb(255, 164, 28)
+    }
+    .add:active{
+      opacity: 0.5;
+    }
+  .sign{
+    height: 36px;
+    width: 90px;
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    border-radius: 7px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+    }
+    .sign:hover{
+      box-shadow:5px 5px 10px rgba(0, 0, 0, 0.2)}
+
+  .get{
+    height:36px;
+    width: 90px;
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-right: 8px;
+    cursor: pointer;
+    transition: opacity 0.15s, background-color 0.15s, color 0.15s;
+  }
+  .get:hover{
+    background-color:rgb(98, 22, 211) ;
+  }
+  .get:active{
+    background-color: white;
+    color: purple;
+  }
+  .down{
+    height: 36px;
+    width: 90px;
+    background-color: white;
+    color: rgb(108, 117, 125);
+    border: none;
+    border-radius: 2px;
+    font-size: 13px;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    transition: color 0.15s, background-color 0.15s;
+  }
+   .down:hover{
+    color: white;
+    background-color: rgb(108, 117, 125);
+   }
+
+  .apply{
+    height: 36px;
+    width: 210px;
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    border-radius: 18px;
+    font-weight: bold;
+    cursor:pointer;
+    transition: opacity 0.15s, background-color 0.15s;
+  }
+   .apply:hover{
+    background-color: rgb(4, 56, 109);
+   }
+   .apply:active{
+    opacity: 0.5;
+   }
+  .save{
+    height: 36px;
+    width: 80px;
+    border-radius: 18px;
+    background-color: white;
+    border-width: 1px;
+    border-color: rgb(10, 102, 194);
+    color: rgb(10, 102, 194);
+    margin-left: 8px;
+    cursor: pointer;
+    transition: border-width 0.15s, background-color 0.15s;
+  }
+   .save:hover{
+    border-width: 2px;
+    background-color: rgb(158, 202, 228);
+   }
+  .back{color: rgb(0, 113, 133);
+    transition: color 0.15s;
+  }
+  .back:hover{
+    color:rgb(255,164,28)
+  }
+  .nike{
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .stock{
+    color:rgb(0, 118, 0)
+  }
+  .free{
+    color:rgb(0, 0, 0)
+  }
+  .buy{
+    height: 36px;
+    width: 150px;
+    border: none;
+    background-color: rgb(255, 164, 28);
+    border-radius: 18px;
+    transition: background-color 0.15s, opacity 0.15s;
+  }
+  .buy:hover{
+    background-color: rgb(146, 92, 12);
+  }
+  .buy:active{
+    opacity:0.5;
+  }

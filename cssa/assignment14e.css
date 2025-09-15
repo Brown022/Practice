@@ -1,0 +1,48 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom-width:1px ;
+  border-bottom-style:solid ;
+  border-bottom-color:gray ;
+  padding-bottom: 3px;
+  padding-right: 40px;
+}
+.sdiv{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.spid{
+  margin-left: 50px;
+  margin-right: 10px;
+}
+.spider{
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  object-fit: cover;
+  object-position: center;
+}
+.add{
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: white;
+  background-color: blue;
+  border: none;
+  border-radius: 7px;
+}
+.mes{
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: black;
+  background-color: rgb(207, 205, 205);
+  border-radius: 7px;
+  border: none;
+}

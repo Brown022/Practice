@@ -1,0 +1,86 @@
+  .req{
+    height: 36px;
+    width: 110px;
+    border: none;
+    border-color: black;
+    background-color: black;
+    color: white;
+    font-size: 12px;}
+  .add{
+    height: 36px;
+    width: 150px;
+    border: none;
+    border-radius: 18px;
+    background-color: rgb(255, 216, 20);
+    }
+  .sign{
+    height: 36px;
+    width: 90px;
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    border-radius: 7px;
+    font-weight: bold;
+    }
+  .get{
+    height:36px;
+    width: 90px;
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-right: 8px;
+  }
+  .down{
+    height: 36px;
+    width: 90px;
+    background-color: white;
+    color: rgb(108, 117, 125);
+    border: none;
+    border-radius: 2px;
+    font-size: 13px;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 1px;
+  }
+  .apply{
+    height: 36px;
+    width: 210px;
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    border-radius: 18px;
+    font-weight: bold;
+  }
+  .save{
+    height: 36px;
+    width: 80px;
+    border-radius: 18px;
+    background-color: white;
+    border-width: 1px;
+    border-color: rgb(10, 102, 194);
+    color: rgb(10, 102, 194);
+    margin-left: 8px;
+  }
+  .back{color: rgb(0, 113, 133);}
+  .nike{
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .stock{
+    color:rgb(0, 118, 0)
+  }
+  .free{
+    color:rgb(0, 0, 0)
+  }
+  .buy{
+    height: 36px;
+    width: 150px;
+    border: none;
+    background-color: rgb(255, 164, 28);
+    border-radius: 18px;
+
+
+  }
